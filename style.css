@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    background-color: aquamarine;
+    color: black;
+}
+#showSketch{
+    float: right;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
+p{
+    padding-top: 10px;
+    font-size: 25px;
+}
